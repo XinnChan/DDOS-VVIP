@@ -2,6 +2,13 @@
 
 
 
+git clone https://github.com/XinnChan/DDOS-VVIP
+
+
+
+
+
+
 install module
 
 
@@ -19,7 +26,7 @@ npm i request
 npm i child_process
 
 
-
+cd && cd DDOS-VVIP
 
 
 usage: node XCDDOS.js [url] [time] [thread: 10]
